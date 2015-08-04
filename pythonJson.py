@@ -63,5 +63,5 @@ myurl='http://223.6.252.216/1.0/search?q=%E4%BA%94%E5%AD%90%E6%A3%8B&fix_spellin
 response = requests.get(myurl)
 #print response.json 
 data = response.text
-print data["results"][0]
+print data["results"][1]
 

@@ -5,7 +5,7 @@ Selenium exercise (Python)
 
 ## Requirements
 
-* Python (https://seleniumhq.github.io/selenium/docs/api/py/)
+* [Python] (https://seleniumhq.github.io/selenium/docs/api/py/)
 * Selenium
 * Xcode
 

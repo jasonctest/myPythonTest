@@ -1,19 +1,27 @@
-Selenium exercise (Python)
+Selenium Technical Interview Exercise (Python)
 ========
 
-## Documentation
-This is a simple repository to run selenium webdriver test using python on MacOS Firefox.
+## Introduction
+
+This is a simple repository to write functional/acceptance tests using Selenium WebDriver running on MacOS with Python programming language.
 
 ## Requirements
 
-* [Python](https://seleniumhq.github.io/selenium/docs/api/py/)
 * Selenium
-* Xcode
+* [Python](https://seleniumhq.github.io/selenium/docs/api/py/)
+* Browser driver (we will use Firefox as the default browser runnning for this test)
+
 
 ## Steps
+
 1. Install python
-2. Install selenium using pip
-3. Download Webdriver from https://github.com/mozilla/geckodriver/releases and locate it to /usr/local/bin directory
+	
+2. Install selenium
+	`pip install selenium`
+
+3. Download latest Firefox Webdriver from `https://github.com/mozilla/geckodriver/releases` for macOS and locate it to `/usr/local/bin` directory
+
+
 4. To execute test script, simply type "python script.py"
 
 	Note: somecommand here
